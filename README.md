@@ -23,7 +23,7 @@ The project demonstrates the use of Bootstrap components and responsive layout t
 
 ## Live Demo
 
-View the live project via GitHub Pages.
+🔗 [Live Demo](https://iazubkov.github.io/tea-landing/)
 
 ## About the Project
 
